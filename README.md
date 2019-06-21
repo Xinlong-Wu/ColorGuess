@@ -6,6 +6,8 @@
 
 - 慢慢更新吧
 
-# 原码：[src](https://github.com/fenglinger/ColorGuess/tree/master/src)
+- 原码：[src](https://github.com/fenglinger/ColorGuess/tree/master/src)
 
-# 图片文件：[img](https://github.com/fenglinger/ColorGuess/tree/master/img)
+- 图片文件：[img](https://github.com/fenglinger/ColorGuess/tree/master/img)
+
+- **下载链接** ： [下载](http://www.wulongxin.com/kod/index.php?share/file&user=1&sid=VUjGruAg) (安装包版）
