@@ -10,4 +10,4 @@
 
 - 图片文件：[img](https://github.com/fenglinger/ColorGuess/tree/master/img)
 
-- **下载链接** ： [下载](http://www.wulongxin.com/kod/index.php?share/file&user=1&sid=VUjGruAg) (安装包版）
+- **下载链接** ： [下载](http://www.wulongxin.com/kod/index.php?share/fileDownload&user=1&sid=VUjGruAg) (安装包版）
